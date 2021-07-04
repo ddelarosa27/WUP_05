@@ -48,6 +48,7 @@ basicCC <- ggplot(dd2,aes(x=infected,y=prcnt*100,fill=treatment))
 basicCC + geom_bar(stat="identity", position = "dodge")
 ```
   
+  This plot shows that the women who took the drug are more likely to get aids than if they were to take the placebo. The odds of contracting aids is three to two if you take the drug and one and a half times more likely to get aids if you take the drug.
 
 ### Numerical Descriptive Results
 
