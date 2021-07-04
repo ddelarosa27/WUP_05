@@ -79,3 +79,5 @@ Null hypothesis the odds ratio is one. the null hypothesis can be rejected based
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based on the plots and the numerical results we can conclude that the drug is not effective in preventing females from contracting aids, based on the plot it shows that the drug actually increases the females chances of getting aids two to three. Therefore we can reject the null hypothesis.
